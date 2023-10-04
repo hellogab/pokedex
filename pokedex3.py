@@ -80,4 +80,4 @@ def pokemon_info(pokemon,hp,attacks,items):
 if __name__ == "__main__":
     add_pokemon(sys.argv[1:])
     
-#change
+#change 2
