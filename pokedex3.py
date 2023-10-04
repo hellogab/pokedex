@@ -79,3 +79,5 @@ def pokemon_info(pokemon,hp,attacks,items):
     pokemon_items.clear() 
 if __name__ == "__main__":
     add_pokemon(sys.argv[1:])
+    
+#change
